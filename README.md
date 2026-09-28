@@ -13,6 +13,21 @@ O aplicație Windows pentru organizarea finanțelor personale: buget, facturi, e
 - Urmărești credite și asigurări, inclusiv scadențe și repere de reînnoire.
 - Alegi dacă vrei să conectezi Gmail și Calendar; acestea nu sunt necesare pentru configurarea inițială.
 
+## Documente recunoscute automat
+
+Citirea depinde de formatul documentului, nu doar de numele instituției. În versiunea beta sunt implementate:
+
+| Tip | Instituție / document | Format acoperit |
+| --- | --- | --- |
+| Extras bancar | ING Bank | Extrase PDF ING recunoscute de cititorul aplicației |
+| Extras bancar | BRD | Extrase PDF BRD recunoscute de cititorul aplicației |
+| Extras bancar | Banca Transilvania (BT) | Extrase PDF BT recunoscute de cititorul aplicației |
+| Asigurare | PAID | Polița PAD pentru locuință |
+| Asigurare | Sogessur / BRD Asigurări | Certificatul de asigurare facultativă a locuinței în formatul BRD recunoscut |
+| Asigurare | Allianz-Țiriac | Polița individuală de sănătate SanaPro în formatul recunoscut |
+
+Ofertele, notificările și condițiile de asigurare nu sunt importate automat ca polițe. Un PDF cu altă structură, chiar de la una dintre instituțiile de mai sus, poate necesita verificare sau poate fi respins. Aplicația nu presupune valori lipsă din document.
+
 ## Cum arată
 
 Capturile sunt din versiunea de dezvoltare, cu date demonstrative. Nu conțin documente sau valori financiare personale; interfața se poate schimba până la lansare.
