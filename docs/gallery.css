@@ -40,14 +40,12 @@
   gap: 18px;
   overflow-x: auto;
   padding: 2px 28px 18px;
-  scroll-snap-type: x mandatory;
-  scroll-padding-left: 28px;
   overscroll-behavior-inline: contain;
   scrollbar-width: none;
   cursor: grab;
 }
 .showcase-rail::-webkit-scrollbar { display: none; }
-.showcase-rail.is-dragging { cursor: grabbing; scroll-snap-type: none; user-select: none; }
+.showcase-rail.is-dragging { cursor: grabbing; user-select: none; }
 .showcase-rail.is-dragging * { user-select: none; }
 .showcase-card {
   flex: 0 0 min(72vw, 640px);
@@ -58,7 +56,6 @@
   border-radius: 16px;
   background: white;
   box-shadow: 0 12px 28px rgb(22 63 117 / 10%);
-  scroll-snap-align: start;
 }
 .showcase-card:nth-child(2n) { background: #fdfefe; }
 .showcase-window { padding: 12px 12px 0; background: #dfeafa; }
@@ -85,7 +82,7 @@
   .showcase-shell { padding-top: 20px; }
   .showcase-toolbar { flex-direction: column; align-items: stretch; gap: 12px; padding: 0 20px 16px; }
   .showcase-controls { justify-content: flex-end; }
-  .showcase-rail { gap: 12px; padding-inline: 20px; scroll-padding-left: 20px; }
+  .showcase-rail { gap: 12px; padding-inline: 20px; }
   .showcase-card { flex-basis: min(84vw, 500px); }
   .showcase-viewport { height: 230px; }
   .showcase-caption { padding: 17px 18px 19px; }

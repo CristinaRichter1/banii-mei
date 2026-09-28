@@ -63,10 +63,9 @@
   });
   function finishDrag() {
     if (!drag) return;
-    const moved = drag.moved;
     drag = null;
     rail.classList.remove('is-dragging');
-    if (moved) goTo(closestIndex());
+    queueUpdate();
   }
   rail.addEventListener('pointerup', finishDrag);
   rail.addEventListener('pointercancel', finishDrag);
