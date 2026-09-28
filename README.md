@@ -15,15 +15,31 @@ O aplicație Windows pentru organizarea finanțelor personale: buget, facturi, e
 
 ## Cum arată
 
-Capturile sunt din versiunea de dezvoltare și nu conțin date financiare personale. Interfața se poate schimba până la lansare.
+Capturile sunt din versiunea de dezvoltare, cu date demonstrative. Nu conțin documente sau valori financiare personale; interfața se poate schimba până la lansare.
 
-### Configuratorul
+### Acasă — ce merită atenție
+
+![Pagina Acasă, cu sarcini demonstrative grupate în Urgent, De verificat și În curând](docs/assets/acasa-demo.png)
+
+Pagina Acasă grupează lucrurile de rezolvat, fără să confirme automat plăți sau importuri.
+
+### Plan lunar — categorii și surse
+
+![Plan lunar demonstrativ cu categorii, sume din salariu, tichete și rezerve](docs/assets/plan-lunar-demo.png)
+
+Planul arată separat ce aloci din salariu, din tichete și din rezerve. Valorile din imagine sunt fictive.
+
+### Asigurări — polițe și riscuri
+
+![Lista demonstrativă de asigurări, cu detaliile unei polițe PAD și riscurile acoperite](docs/assets/asigurari-demo.png)
+
+Detaliile unei polițe pot arăta valabilitatea, prima și riscurile citite din document, fără a confunda acestea cu o plată bancară verificată.
+
+### Configurarea inițială
 
 ![Configuratorul Banii mei, la pasul de alegere a bazei de date](docs/assets/configurare.png)
 
 Configuratorul te conduce prin pregătirea instalării și a bazei de date.
-
-### Prima pornire
 
 ![Ecranul de configurare inițială a planului lunar, cu câmpuri demonstrative necompletate](docs/assets/prima-pornire.png)
 
