@@ -2,6 +2,8 @@
 
 Creată cu ❤️ de Cristina Richter.
 
+[Pagina „Banii mei”](https://cristinarichter1.github.io/banii-mei/) — prezentarea aplicației și ghidul pentru prima instalare.
+
 ## Contact și ajutor
 
 - [Întrebări și sugestii — Discussions](https://github.com/CristinaRichter1/banii-mei/discussions)
