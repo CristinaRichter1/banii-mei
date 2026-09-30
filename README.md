@@ -4,7 +4,7 @@ O aplicație Windows pentru organizarea finanțelor personale: buget, facturi, e
 
 [Descoperă aplicația și ghidul pentru prima instalare](https://cristinarichter1.github.io/banii-mei/)
 
-> **Stadiu:** versiunea [v0.1.0-beta.1 pentru Windows](https://github.com/CristinaRichter1/banii-mei/releases/tag/v0.1.0-beta.1) este disponibilă pentru testare. Nu este încă o versiune stabilă pentru utilizarea zilnică.
+> **Stadiu:** [cea mai recentă versiune pentru Windows](https://github.com/CristinaRichter1/banii-mei/releases) este disponibilă pentru testare. Nu este încă o versiune stabilă pentru utilizarea zilnică. Linkul include și versiunile beta; descarcă pachetul Windows din primul release publicat.
 
 ## Ce poți face
 
@@ -62,7 +62,7 @@ La prima pornire poți alege numele folosit în salut, luna de început și resu
 
 ## Prima instalare
 
-Aplicația este destinată Windows x64. Descarcă [pachetul beta din secțiunea Releases](https://github.com/CristinaRichter1/banii-mei/releases/tag/v0.1.0-beta.1), dezarhivează-l și pornește „Instaleaza Banii mei.exe”. Pachetul este pentru testare și nu este semnat digital; Windows poate afișa un avertisment privind editorul necunoscut. Nu instala fișiere din alte surse. [Ghidul primei instalări](https://cristinarichter1.github.io/banii-mei/#instalare) explică pașii.
+Aplicația este destinată Windows x64. Descarcă [pachetul beta din secțiunea Releases](https://github.com/CristinaRichter1/banii-mei/releases), dezarhivează-l și pornește „Instaleaza Banii mei.exe”. Pachetul este pentru testare și nu este semnat digital; Windows poate afișa un avertisment privind editorul necunoscut. Nu instala fișiere din alte surse. [Ghidul primei instalări](https://cristinarichter1.github.io/banii-mei/#instalare) explică pașii.
 
 Dacă testezi deja aplicația cu un pachet primit direct, păstrează toate fișierele pachetului împreună și urmează pașii afișați de configurator. Pentru mutarea datelor de pe alt calculator, folosește opțiunea de restaurare dintr-o copie de rezervă creată de „Banii mei”; nu șterge originalul înainte de a verifica restaurarea.
 
