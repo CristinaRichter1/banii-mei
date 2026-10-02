@@ -4,7 +4,7 @@ O aplicație Windows pentru organizarea finanțelor personale: buget, facturi, e
 
 [Descoperă aplicația și ghidul pentru prima instalare](https://cristinarichter1.github.io/banii-mei/)
 
-> **Banii mei 1.0.0 este disponibilă pentru Windows.** [Descarcă cea mai recentă versiune](https://github.com/CristinaRichter1/banii-mei/releases) din primul release publicat. 
+> **Banii mei 1.0.2 este disponibilă pentru Windows.** [Descarcă cea mai recentă versiune](https://github.com/CristinaRichter1/banii-mei/releases) din primul release publicat. 
 
 ## Ce poți face
 
