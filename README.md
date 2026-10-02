@@ -4,7 +4,7 @@ O aplicație Windows pentru organizarea finanțelor personale: buget, facturi, e
 
 [Descoperă aplicația și ghidul pentru prima instalare](https://cristinarichter1.github.io/banii-mei/)
 
-> **Stadiu:** [cea mai recentă versiune pentru Windows](https://github.com/CristinaRichter1/banii-mei/releases) este disponibilă pentru testare. Nu este încă o versiune stabilă pentru utilizarea zilnică. Linkul include și versiunile beta; descarcă pachetul Windows din primul release publicat.
+> **Banii mei 1.0.0 este disponibilă pentru Windows.** [Descarcă cea mai recentă versiune](https://github.com/CristinaRichter1/banii-mei/releases) din primul release publicat. [Vezi ce include 1.0.0](https://github.com/CristinaRichter1/banii-mei/releases/tag/v1.0.0).
 
 ## Ce poți face
 
@@ -15,7 +15,7 @@ O aplicație Windows pentru organizarea finanțelor personale: buget, facturi, e
 
 ## Documente recunoscute automat
 
-Citirea depinde de formatul documentului, nu doar de numele instituției. În versiunea beta sunt implementate:
+Citirea depinde de formatul documentului, nu doar de numele instituției. Sunt implementate:
 
 | Tip | Instituție / document | Format acoperit |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Ofertele, notificările și condițiile de asigurare nu sunt importate automat c
 
 ## Cum arată
 
-Capturile sunt din versiunea de dezvoltare, cu date demonstrative. Nu conțin documente sau valori financiare personale; interfața se poate schimba până la lansare.
+Capturile folosesc date demonstrative. Nu conțin documente sau valori financiare personale; interfața poate evolua în versiunile următoare.
 
 ### Acasă — ce merită atenție
 
@@ -62,7 +62,7 @@ La prima pornire poți alege numele folosit în salut, luna de început și resu
 
 ## Prima instalare
 
-Aplicația este destinată Windows x64. Descarcă [pachetul beta din secțiunea Releases](https://github.com/CristinaRichter1/banii-mei/releases), dezarhivează-l și pornește „Instaleaza Banii mei.exe”. Pachetul este pentru testare și nu este semnat digital; Windows poate afișa un avertisment privind editorul necunoscut. Nu instala fișiere din alte surse. [Ghidul primei instalări](https://cristinarichter1.github.io/banii-mei/#instalare) explică pașii.
+Aplicația este destinată Windows x64. Descarcă [cea mai recentă arhivă Windows din secțiunea Releases](https://github.com/CristinaRichter1/banii-mei/releases), dezarhiveaz-o și pornește „Instaleaza Banii mei.exe”. Versiunea 1.0.0 este publicată; pachetul nu este semnat digital, deci Windows poate afișa un avertisment privind editorul necunoscut. [Ghidul primei instalări](https://cristinarichter1.github.io/banii-mei/#instalare) explică pașii.
 
 Dacă testezi deja aplicația cu un pachet primit direct, păstrează toate fișierele pachetului împreună și urmează pașii afișați de configurator. Pentru mutarea datelor de pe alt calculator, folosește opțiunea de restaurare dintr-o copie de rezervă creată de „Banii mei”; nu șterge originalul înainte de a verifica restaurarea.
 
